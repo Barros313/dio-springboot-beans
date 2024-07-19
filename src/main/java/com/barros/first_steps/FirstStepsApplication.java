@@ -2,6 +2,7 @@ package com.barros.first_steps;
 
 import com.barros.first_steps.dio.ConversorJson;
 import com.barros.first_steps.dio.ViaCepResponse;
+import com.google.gson.Gson;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
